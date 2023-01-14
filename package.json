@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "name": "readme-generator",
+  "description": "## User Story ```md AS A developer I WANT a README generator SO THAT I can quickly create a professional README for a new project ```",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mkaye97/README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mkaye97/README-Generator/issues"
+  },
+  "homepage": "https://github.com/mkaye97/README-Generator#readme"
+}
