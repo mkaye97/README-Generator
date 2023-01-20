@@ -94,7 +94,7 @@ const answers = inquirer
           name: 'Mozilla Public License 2.0'},
 
           {value: {
-            badge: '',
+            badge: '[![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)',
             title: 'The Unlicense'}, 
           name: 'The Unlicense'}
         ],
